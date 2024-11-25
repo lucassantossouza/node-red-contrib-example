@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-example",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "A Node-RED node example",
   "author": "Lucas Santos",
   "license": "ISC",
